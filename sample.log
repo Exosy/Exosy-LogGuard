@@ -1,0 +1,7 @@
+Exosy-LogGuard/
+│
+├── logguard.py
+├── sample.log
+├── README.md
+├── .gitignore
+└── LICENSE
